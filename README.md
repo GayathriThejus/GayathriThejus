@@ -6,10 +6,10 @@
   </a>
 
 
-</br>
-- 🔭 Someone who learns & build.</br>
-- 📫 @ *gayathrithejus@gmail.com* </br>
-- 🚀 Check out my Portfolio - [Link](https://myportfolio-seven-mauve.vercel.app/)
+
+- 🔭 Someone who loves to build.</br>
+- 📫 gayathrithejus@gmail.com </br>
+- 🚀 Portfolio - [Link](https://myportfolio-seven-mauve.vercel.app/)
 
 <br/>
 
